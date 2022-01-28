@@ -1,0 +1,14 @@
+body{
+    Background:url("../asset/BG2.jpg");
+    background-size:cover;
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+
+h1{
+    color: azure !important;
+}
+
+h2{
+    color: azure !important;
+}
